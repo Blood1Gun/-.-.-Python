@@ -1,3 +1,6 @@
+# Лаб работа №4
+# Братский Дмитрий, 100502-УБТа-о23, Вариант 2
+
 import re
 def normal_number(phone):
     phone = re.sub(r'\D', '', phone)
