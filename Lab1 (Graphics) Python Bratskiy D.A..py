@@ -1,3 +1,6 @@
+# Лаб работа №1
+# Братский Дмитрий, 100502-УБТа-о23, Вариант 2
+
 print("Упражнение №2:")
 import numpy as np
 import matplotlib.pyplot as plt
